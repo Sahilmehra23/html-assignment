@@ -1,0 +1,207 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 3% 3% 0 3% ;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    gap: 15%;
+    width: 94vw;
+}
+
+.right {
+    display: flex;
+}
+
+.right {
+    display: flex;
+    gap: 13%;
+    width: 33vw;
+    text-decoration: none;
+    font-size: 1.1vw;
+}
+.right a{
+    text-decoration: none;
+    color: black;
+}
+
+.mid {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.mid img{
+    width: 18vw;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 3%;
+    width: 100%;
+    margin-top: 5%;
+}
+
+.items img{
+    width: 15vw;
+    margin-bottom: 10%;
+}
+
+
+.middle {
+    display: flex;
+    gap: 3%;
+    margin-top: 7%;
+}
+
+.outs {
+    display: flex;
+    gap: 3%;
+}
+
+.text p{
+    font-size: 1.5vw;
+    padding-top: 14%;
+}
+
+.midss{
+    align-items: center;
+    display: flex;
+    gap: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.midss button{
+    width: 3vw;
+    border: none;
+
+}
+
+.midss a img{
+    width: 3vw;
+}
+
+
+.num {
+    display: flex;
+    margin-top: 6%;
+    margin-bottom: 7%;
+    align-items: center;
+    gap: 7%;
+}
+
+.one {
+    display: flex;
+    gap: 2%;
+}
+
+.one img{
+    width: 9vw;
+}
+
+.two {
+    display: flex;
+    gap: 3%;
+}
+.two img{
+    width: 9vw;
+}
+.connect h1{
+    font-size: 5vw;
+    color: gray;
+    margin-left: 3%;
+}
+
+.form input {
+    width: 30vw;
+    border: none;
+    padding: 4%;
+    background-color: rgba(128, 128, 128, 0.377);
+    margin-top: 5%;
+    border-radius: 5px;
+}
+
+.formstart {
+    display: flex;
+    gap: 5%;
+}
+
+.formstart img{
+    width: 70%;
+}
+
+.check {
+    display: flex;
+}
+
+.send button{
+    width:9vw;
+    background-color: black;
+    padding: 1%;
+    color: white;
+    margin-top: 2%;
+}
+
+footer {
+    background-color: black;
+    margin-top: 3%;
+    color: white;
+    height: 30vh;
+   
+}
+
+
+.check {
+    display: flex;
+    gap: 1%;
+    margin-top: 2%;
+}
+.fos {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3%;
+}
+
+img.logoss {
+    width: 9vw;
+}
+
+.info p{
+    font-size: 1.5vw;
+}
+
+.contacts p{
+    font-size: 1.5vw;
+}
+
+.social p{
+    font-size: 1.5vw;
+}
+.bott{   
+    font-size: 1.2vw;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.info a{
+    font-size: 1.2vw;
+    text-decoration: none;
+    color: white;
+
+}
+
+.loc {
+    display: flex;
+    margin-top: 3%;
+    gap: 2%;
+}
+
+.social img{
+    padding: 3%;
+}
